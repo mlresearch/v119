@@ -5,7 +5,7 @@ year: '2020'
 volume: 119
 start: 2020-07-13
 end: 2020-07-18
-published: 2020-09-29
+published: 2020-11-21
 url: http://proceedings.mlr.press
 conference_number: '37'
 layout: proceedings
@@ -26,7 +26,7 @@ description: |
   Proceedings of the 37th International Conference on Machine Learning
     Held in Virtual on 13-18 July 2020
 
-  Published as Volume 119 by the Proceedings of Machine Learning Research on 29 September 2020.
+  Published as Volume 119 by the Proceedings of Machine Learning Research on 21 November 2020.
 
   Volume Edited by:
     Hal Daumé III

@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check http://proc
 
 
 
-Published as Volume 119 by the Proceedings of Machine Learning Research on 29 September 2020.
+Published as Volume 119 by the Proceedings of Machine Learning Research on 21 November 2020.
 
 Volume Edited by:
   * Hal Daumé III
