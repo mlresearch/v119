@@ -48,6 +48,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/idiap/fast-transformers
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/katharopoulos20a/katharopoulos20a-supp.pdf

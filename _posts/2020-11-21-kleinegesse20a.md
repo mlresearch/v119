@@ -49,6 +49,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/stevenkleinegesse/minebed
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/kleinegesse20a/kleinegesse20a-supp.pdf

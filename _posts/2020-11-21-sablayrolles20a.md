@@ -48,6 +48,7 @@ issued:
   - 2020
   - 11
   - 21
+software: http://github.com/facebookresearch/radioactive_data
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a-supp.pdf

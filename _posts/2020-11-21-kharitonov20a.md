@@ -51,6 +51,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/facebookresearch/EGG/tree/master/egg/zoo/language_bottleneck
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/kharitonov20a/kharitonov20a-supp.pdf

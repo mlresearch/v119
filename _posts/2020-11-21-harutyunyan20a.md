@@ -53,6 +53,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/hrayrhar/limit-label-memorization
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/harutyunyan20a/harutyunyan20a-supp.pdf

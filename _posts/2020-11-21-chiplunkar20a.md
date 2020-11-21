@@ -49,6 +49,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/sagark4/fair_k_center
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/chiplunkar20a/chiplunkar20a-supp.pdf

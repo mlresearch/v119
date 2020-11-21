@@ -42,6 +42,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/Shekhale/gbnns_theory
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/prokhorenkova20a/prokhorenkova20a-supp.pdf

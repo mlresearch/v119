@@ -47,6 +47,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://sites.google.com/view/mbrl-game
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/rajeswaran20a/rajeswaran20a-supp.pdf

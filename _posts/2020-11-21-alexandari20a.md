@@ -57,6 +57,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/kundajelab/labelshiftexperiments
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/alexandari20a/alexandari20a-supp.pdf

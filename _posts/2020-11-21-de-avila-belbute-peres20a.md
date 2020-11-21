@@ -47,6 +47,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/locuslab/cfd-gcn
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/de-avila-belbute-peres20a/de-avila-belbute-peres20a-supp.pdf

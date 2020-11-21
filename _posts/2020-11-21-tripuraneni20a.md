@@ -43,6 +43,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/nileshtrip/SPTransducPredCode
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/tripuraneni20a/tripuraneni20a-supp.pdf

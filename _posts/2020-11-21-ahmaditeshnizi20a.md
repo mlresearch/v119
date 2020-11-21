@@ -51,6 +51,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/teshnizi/LazyIter
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/ahmaditeshnizi20a/ahmaditeshnizi20a-supp.pdf

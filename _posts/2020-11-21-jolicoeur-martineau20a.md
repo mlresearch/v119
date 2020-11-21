@@ -42,9 +42,11 @@ issued:
   - 2020
   - 11
   - 21
-software: https://media.icml.cc/Conferences/ICML2020/v119/jolicoeurmartineau20a-supp.zip
+software: https://github.com/AlexiaJM/relativistic-f-divergences
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/jolicoeur-martineau20a/jolicoeur-martineau20a-supp.pdf
+- label: Other Files
+  link: https://media.icml.cc/Conferences/ICML2020/v119/jolicoeurmartineau20a-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

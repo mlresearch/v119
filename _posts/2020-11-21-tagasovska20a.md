@@ -48,9 +48,11 @@ issued:
   - 2020
   - 11
   - 21
-software: https://media.icml.cc/Conferences/ICML2020/v119/tagasovska20a-supp.zip
+software: https://github.com/tagas/bQCD
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/tagasovska20a/tagasovska20a-supp.pdf
+- label: Other Files
+  link: https://media.icml.cc/Conferences/ICML2020/v119/tagasovska20a-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

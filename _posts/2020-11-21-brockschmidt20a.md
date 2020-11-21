@@ -43,6 +43,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/microsoft/tf-gnn-samples
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

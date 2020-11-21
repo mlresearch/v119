@@ -52,6 +52,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/s-h-yang/pNormFlowDiffusion
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/fountoulakis20a/fountoulakis20a-supp.pdf

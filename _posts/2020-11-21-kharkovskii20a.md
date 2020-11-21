@@ -48,6 +48,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/Mitan/po-gp-ucb
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/kharkovskii20a/kharkovskii20a-supp.pdf

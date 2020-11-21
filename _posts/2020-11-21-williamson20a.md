@@ -49,6 +49,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/bdwilliamson/spvim_supplementary
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/williamson20a/williamson20a-supp.pdf

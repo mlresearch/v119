@@ -56,6 +56,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/armanihm/GDC
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/hasanzadeh20a/hasanzadeh20a-supp.pdf

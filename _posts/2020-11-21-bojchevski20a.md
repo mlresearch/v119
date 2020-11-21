@@ -49,6 +49,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://www.daml.in.tum.de/sparse_smoothing
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/bojchevski20a/bojchevski20a-supp.pdf

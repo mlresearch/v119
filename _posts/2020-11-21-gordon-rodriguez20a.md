@@ -51,6 +51,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/cunningham-lab/cb_and_cc
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/gordon-rodriguez20a/gordon-rodriguez20a-supp.pdf

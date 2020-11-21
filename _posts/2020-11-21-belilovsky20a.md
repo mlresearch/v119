@@ -51,6 +51,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/eugenium/DGL
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/belilovsky20a/belilovsky20a-supp.pdf

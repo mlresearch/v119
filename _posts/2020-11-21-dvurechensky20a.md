@@ -50,6 +50,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/kamil-safin/SCFW
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/dvurechensky20a/dvurechensky20a-supp.pdf

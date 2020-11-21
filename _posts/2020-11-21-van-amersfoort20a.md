@@ -46,6 +46,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/y0ast/deterministic-uncertainty-quantification
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/van-amersfoort20a/van-amersfoort20a-supp.pdf

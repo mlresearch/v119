@@ -41,6 +41,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/jdebened/ComplexDeepSets
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/debenedetto20a/debenedetto20a-supp.pdf

@@ -55,6 +55,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/luigicarratino/batch-bkb
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/calandriello20a/calandriello20a-supp.pdf

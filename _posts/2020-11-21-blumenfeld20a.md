@@ -47,6 +47,7 @@ issued:
   - 2020
   - 11
   - 21
+software: https://github.com/yanivbl6/BeyondSigProp
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v119/blumenfeld20a/blumenfeld20a-supp.pdf
