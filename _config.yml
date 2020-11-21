@@ -1,0 +1,82 @@
+---
+booktitle: Proceedings of the 37th International Conference on Machine Learning
+shortname: ICML
+year: '2020'
+volume: 119
+start: 2020-07-13
+end: 2020-07-18
+published: 2020-09-29
+url: http://proceedings.mlr.press
+conference_number: '37'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICML2020
+month: 0
+cycles: false
+bibtex_editor: III, Hal Daum\'e and Singh, Aarti
+editor:
+- given: Hal Daumé
+  family: III
+- given: Aarti
+  family: Singh
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 37th International Conference on Machine Learning
+    Held in Virtual on 13-18 July 2020
+
+  Published as Volume 119 by the Proceedings of Machine Learning Research on 29 September 2020.
+
+  Volume Edited by:
+    Hal Daumé III
+    Aarti Singh
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 13--18 Jul
+author:
+  name: PMLR
+baseurl: "/v119"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v119
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Machine Learning
+  url: 
+  location: Virtual
+  dates:
+  - 2020-07-13
+  - 2020-07-14
+  - 2020-07-15
+  - 2020-07-16
+  - 2020-07-17
+  - 2020-07-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v119/icml20.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v119/icml20.bib

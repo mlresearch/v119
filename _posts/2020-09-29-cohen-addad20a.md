@@ -1,0 +1,60 @@
+---
+title: On Efficient Low Distortion Ultrametric Embedding
+booktitle: Proceedings of the 37th International Conference on Machine Learning
+year: '2020'
+pdf: http://proceedings.mlr.press/v119/cohen-addad20a/cohen-addad20a.pdf
+url: http://proceedings.mlr.press/v119/cohenaddad20a.html
+abstract: A classic problem in unsupervised learning and data analysis is to find
+  simpler and easy-to-visualize representations of the data that preserve its essential
+  properties. A widely-used method to preserve the underlying hierarchical structure
+  of the data while reducing its complexity is to find an embedding of the data into
+  a tree or an ultrametric, but computing such an embedding on a data set of $n$ points
+  in $\Omega(\log n)$ dimensions incurs a quite prohibitive running time of $\Theta(n^2)$.
+  In this paper, we provide a new algorithm which takes as input a set of points $P$
+  in $\R^d$, and for every $c\ge 1$, runs in time $n^{1+\frac{\rho}{c^2}}$ (for some
+  universal constant $\rho>1$) to output an ultrametric $\Delta$ such that for any
+  two points $u,v$ in $P$, we have $\Delta(u,v)$ is within a multiplicative factor
+  of $5c$ to the distance between $u$ and $v$ in the best ultrametric representation
+  of $P$. Here, the best ultrametric is the ultrametric $\tilde\Delta$ that minimizes
+  the maximum distance distortion with respect to the $\ell_2$ distance, namely that
+  minimizes $\underset{u,v \in P}{\max} \nicefrac{\tilde\Delta(u,v)}{\|u-v\|_2}$.
+  We complement the above result by showing that under popular complexity theoretic
+  assumptions, for every constant $\varepsilon>0$, no algorithm with running time
+  $n^{2-\varepsilon}$ can distinguish between inputs in $\ell_\infty$-metric that
+  admit isometric embedding and those that incur a distortion of $\nicefrac{3}{2}$.
+  Finally, we present empirical evaluation on classic machine learning datasets and
+  show that the output of our algorithm is comparable to the output of the linkage
+  algorithms while achieving a much faster running time.
+layout: inproceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: cohen-addad20a
+month: 0
+tex_title: On Efficient Low Distortion Ultrametric Embedding
+firstpage: 2078
+lastpage: 2088
+page: 2078-2088
+order: 2078
+cycles: false
+bibtex_author: Cohen-Addad, Vincent and S., Karthik C. and Lagarde, Guillaume
+author:
+- given: Vincent
+  family: Cohen-Addad
+- given: Karthik C.
+  family: S.
+- given: Guillaume
+  family: Lagarde
+date: 2020-09-29
+address: 
+container-title: Proceedings of the 37th International Conference on Machine Learning
+volume: '119'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2020
+  - 9
+  - 29
+extras: []
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
+---
