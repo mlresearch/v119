@@ -25,10 +25,10 @@ lastpage: 2420
 page: 2412-2420
 order: 2412
 cycles: false
-bibtex_author: Debenedetto, Justin and Chiang, David
+bibtex_author: DeBenedetto, Justin and Chiang, David
 author:
 - given: Justin
-  family: Debenedetto
+  family: DeBenedetto
 - given: David
   family: Chiang
 date: 2020-11-21
