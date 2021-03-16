@@ -7,7 +7,7 @@ url: http://proceedings.mlr.press/v119/debenedetto20a.html
 abstract: Unordered, variable-sized inputs arise in many settings across multiple
   fields. The ability for set- and multiset-oriented neural networks to handle this
   type of input has been the focus of much work in recent years. We propose to represent
-  multisets using complex-weighted \emph{multiset automata} and show how the multiset
+  multisets using complex-weighted multiset automata and show how the multiset
   representations of certain existing neural architectures can be viewed as special
   cases of ours. Namely, (1) we provide a new theoretical and intuitive justification
   for the Transformer model’s representation of positions using sinusoidal functions,
@@ -25,10 +25,10 @@ lastpage: 2420
 page: 2412-2420
 order: 2412
 cycles: false
-bibtex_author: Debenedetto, Justin and Chiang, David
+bibtex_author: DeBenedetto, Justin and Chiang, David
 author:
 - given: Justin
-  family: Debenedetto
+  family: DeBenedetto
 - given: David
   family: Chiang
 date: 2020-11-21
