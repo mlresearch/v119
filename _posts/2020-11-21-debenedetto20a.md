@@ -4,10 +4,11 @@ booktitle: Proceedings of the 37th International Conference on Machine Learning
 year: '2020'
 pdf: http://proceedings.mlr.press/v119/debenedetto20a/debenedetto20a.pdf
 url: http://proceedings.mlr.press/v119/debenedetto20a.html
-abstract: Unordered, variable-sized inputs arise in many settings across multiple
+abstract: |
+  Unordered, variable-sized inputs arise in many settings across multiple
   fields. The ability for set- and multiset-oriented neural networks to handle this
   type of input has been the focus of much work in recent years. We propose to represent
-  multisets using complex-weighted <i>multiset automata</i> and show how the multiset
+  multisets using complex-weighted <em>multiset automata</em> and show how the multiset
   representations of certain existing neural architectures can be viewed as special
   cases of ours. Namely, (1) we provide a new theoretical and intuitive justification
   for the Transformer model’s representation of positions using sinusoidal functions,
