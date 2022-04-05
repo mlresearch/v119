@@ -31,12 +31,12 @@ lastpage: 1013
 page: 1003-1013
 order: 1003
 cycles: false
-bibtex_author: Bojchevski, Aleksandar and Klicpera, Johannes and G{\"u}nnemann, Stephan
+bibtex_author: Bojchevski, Aleksandar and Gasteiger, Johannes and G{\"u}nnemann, Stephan
 author:
 - given: Aleksandar
   family: Bojchevski
 - given: Johannes
-  family: Klicpera
+  family: Gasteiger
 - given: Stephan
   family: Günnemann
 date: 2020-11-21
