@@ -33,9 +33,9 @@ lastpage: 2867
 page: 2858-2867
 order: 2858
 cycles: false
-bibtex_author: Elmachtoub, Adam and Liang, Jason Cheuk Nam and Mcnellis, Ryan
+bibtex_author: Elmachtoub, Adam N. and Liang, Jason Cheuk Nam and Mcnellis, Ryan
 author:
-- given: Adam
+- given: Adam N.
   family: Elmachtoub
 - given: Jason Cheuk Nam
   family: Liang
